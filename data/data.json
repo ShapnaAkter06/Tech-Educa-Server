@@ -1,32 +1,32 @@
 [
     {
       "id": "63569e255c2103bc6b8e8605",
-      "image": "http://placehold.it/32x32",
+      "image": "https://i.ibb.co/bRsqt08/c7.jpg",
       "courseFee": 228,
-      "name": "Booth Tillman"
+      "name": "Vue"
     },
     {
       "id": "63569e25c4cc74cad7c6a8c6",
-      "image": "http://placehold.it/32x32",
+      "image": "https://i.ibb.co/y8VXfkD/c6.jpg",
       "courseFee": 286,
-      "name": "Claudette Stein"
+      "name": "Angular"
     },
     {
       "id": "63569e2526fa0d01e157376f",
-      "image": "http://placehold.it/32x32",
+      "image": "https://i.ibb.co/WzTQ3pW/c5.jpg",
       "courseFee": 212,
-      "name": "John Olson"
+      "name": "React"
     },
     {
       "id": "63569e2544b94a45e74e2552",
-      "image": "http://placehold.it/32x32",
+      "image": "https://i.ibb.co/jTmsVdc/c4.jpg",
       "courseFee": 298,
-      "name": "Sharp Campos"
+      "name": "Express JS"
     },
     {
       "id": "63569e257436a5852991d661",
-      "image": "http://placehold.it/32x32",
+      "image": "https://i.ibb.co/YjTQmDZ/c3.jpg",
       "courseFee": 225,
-      "name": "Gabriela Moreno"
+      "name": "Python"
     }
   ]
