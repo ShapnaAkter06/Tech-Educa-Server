@@ -1,0 +1,32 @@
+[
+    {
+      "id": "63569e255c2103bc6b8e8605",
+      "image": "http://placehold.it/32x32",
+      "courseFee": 228,
+      "name": "Booth Tillman"
+    },
+    {
+      "id": "63569e25c4cc74cad7c6a8c6",
+      "image": "http://placehold.it/32x32",
+      "courseFee": 286,
+      "name": "Claudette Stein"
+    },
+    {
+      "id": "63569e2526fa0d01e157376f",
+      "image": "http://placehold.it/32x32",
+      "courseFee": 212,
+      "name": "John Olson"
+    },
+    {
+      "id": "63569e2544b94a45e74e2552",
+      "image": "http://placehold.it/32x32",
+      "courseFee": 298,
+      "name": "Sharp Campos"
+    },
+    {
+      "id": "63569e257436a5852991d661",
+      "image": "http://placehold.it/32x32",
+      "courseFee": 225,
+      "name": "Gabriela Moreno"
+    }
+  ]
