@@ -28,5 +28,11 @@
       "image": "https://i.ibb.co/YjTQmDZ/c3.jpg",
       "courseFee": 225,
       "name": "Python"
+    },
+    {
+      "id": "63569e257436a5852991d661",
+      "image": "https://i.ibb.co/YjTQmDZ/c2.jpg",
+      "courseFee": 214,
+      "name": "CSS"
     }
   ]
