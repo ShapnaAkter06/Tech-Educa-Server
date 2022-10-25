@@ -3,36 +3,42 @@
       "id": "1",
       "image": "https://i.ibb.co/bRsqt08/c7.jpg",
       "courseFee": 228,
-      "name": "Vue"
+      "name": "Vue",
+      "description": "Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex"
     },
     {
       "id": "2",
       "image": "https://i.ibb.co/y8VXfkD/c6.jpg",
       "courseFee": 286,
-      "name": "Angular"
+      "name": "Angular",
+      "description": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write."
     },
     {
       "id": "3",
       "image": "https://i.ibb.co/WzTQ3pW/c5.jpg",
       "courseFee": 212,
-      "name": "React"
+      "name": "React",
+      "description": "It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks"
     },
     {
       "id": "4",
       "image": "https://i.ibb.co/jTmsVdc/c4.jpg",
       "courseFee": 298,
-      "name": "Express JS"
+      "name": "Express JS",
+      "description": "What Is Express JS? Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
     },
     {
       "id": "5",
       "image": "https://i.ibb.co/YjTQmDZ/c3.jpg",
       "courseFee": 225,
-      "name": "Python"
+      "name": "Python",
+      "description": "Python is a high-level general-purpose interpreted programming language that was developed to emphasize code readability. JavaScript is a programming language that conforms to the ECMAScript specification. 2. It is a scripting language used for developing both desktop and web applications."
     },
     {
       "id": "6",
       "image": "https://i.ibb.co/kBnrMqj/c2.jpg",
       "courseFee": 214,
-      "name": "CSS"
+      "name": "CSS",
+      "description": "An overview: HTML provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript. CSS is used to control presentation, formatting, and layout. JavaScript is used to control the behavior of different elements."
     }
   ]
