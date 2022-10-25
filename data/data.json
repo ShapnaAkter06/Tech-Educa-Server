@@ -1,36 +1,36 @@
 [
     {
-      "id": "63569e255c2103bc6b8e8605",
+      "id": "1",
       "image": "https://i.ibb.co/bRsqt08/c7.jpg",
       "courseFee": 228,
       "name": "Vue"
     },
     {
-      "id": "63569e25c4cc74cad7c6a8c6",
+      "id": "2",
       "image": "https://i.ibb.co/y8VXfkD/c6.jpg",
       "courseFee": 286,
       "name": "Angular"
     },
     {
-      "id": "63569e2526fa0d01e157376f",
+      "id": "3",
       "image": "https://i.ibb.co/WzTQ3pW/c5.jpg",
       "courseFee": 212,
       "name": "React"
     },
     {
-      "id": "63569e2544b94a45e74e2552",
+      "id": "4",
       "image": "https://i.ibb.co/jTmsVdc/c4.jpg",
       "courseFee": 298,
       "name": "Express JS"
     },
     {
-      "id": "63569e257436a5852991d661",
+      "id": "5",
       "image": "https://i.ibb.co/YjTQmDZ/c3.jpg",
       "courseFee": 225,
       "name": "Python"
     },
     {
-      "id": "63569e257436a5852991d661",
+      "id": "6",
       "image": "https://i.ibb.co/kBnrMqj/c2.jpg",
       "courseFee": 214,
       "name": "CSS"
