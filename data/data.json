@@ -25,7 +25,7 @@
       "image": "https://i.ibb.co/R4cTBDy/nodejs-development-solutions.png",
       "courseFee": 298,
       "name": "Node.js",
-      "description": "What Is Express JS? Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
+      "description": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind."
     },
     {
       "id": "5",
