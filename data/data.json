@@ -3,7 +3,7 @@
       "id": "1",
       "image": "https://i.ibb.co/bRsqt08/c7.jpg",
       "courseFee": 228,
-      "name": "Vue",
+      "name": "Vue.js",
       "description": "Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex"
     },
     {
@@ -15,16 +15,16 @@
     },
     {
       "id": "3",
-      "image": "https://i.ibb.co/WzTQ3pW/c5.jpg",
+      "image": "https://i.ibb.co/CWK2wbz/logo-og.png",
       "courseFee": 212,
       "name": "React",
       "description": "It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks"
     },
     {
       "id": "4",
-      "image": "https://i.ibb.co/jTmsVdc/c4.jpg",
+      "image": "https://i.ibb.co/R4cTBDy/nodejs-development-solutions.png",
       "courseFee": 298,
-      "name": "Express JS",
+      "name": "Node.js",
       "description": "What Is Express JS? Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
     },
     {
